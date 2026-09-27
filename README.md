@@ -1,1 +1,1 @@
-# business-entity-resolution
+# business-entity-resolutionSageMaker development environment configured.
